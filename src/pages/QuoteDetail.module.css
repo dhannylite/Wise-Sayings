@@ -1,0 +1,77 @@
+.details {
+    background-color: #1864ab;
+    max-width: 60rem;
+    margin: 8rem auto;
+    border-radius: 11px;
+    padding: 1rem;
+    word-wrap: break-word;
+}
+
+.details p {
+    padding: 5.4rem;
+    font-size: 3.2rem;
+    color: #d7d7d7;
+}
+
+.author {
+    text-align: end;
+    font-size: 1.6rem;
+    color: #74c0fc;
+    padding: 3.2rem;
+}
+
+.btn_box {
+    text-align: center;
+}
+
+.btn_box a:link, .btn_box a:visited {
+    text-decoration: none;
+    background: transparent;
+    font-size: 1.6rem;
+    color: #1c7ed6;
+    padding: 1rem 1.5rem;
+    transition: all 0.4s;
+    border-radius: 6px;
+}
+
+.btn_box a:hover, .btn_box a:active {
+    background-color: #1c7ed6;
+    color: #d7d7d7;
+}
+
+.btn_box button:hover {
+    background-color: #1c7ed6;
+    color: #d7d7d7;
+}
+
+.comment {
+    text-align: center;
+}
+
+.comment h1 {
+    margin-bottom: 1.6rem;
+}
+
+.text {
+    width: 70rem;
+    padding: 2rem;
+    border: 1px solid #ccc;
+    font-size: 1.4rem;
+    padding: 1rem;
+    height: 15rem;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+}
+
+
+.text:focus {
+    background-color: #a5d8ff;
+    outline: 2px solid #3f51b5;
+    border: none;
+    border-radius: 4px;
+}
+
+.center {
+    text-align: center;
+    padding: 2rem;
+}

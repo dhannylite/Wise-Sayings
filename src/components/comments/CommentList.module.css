@@ -1,0 +1,13 @@
+.lists {
+    list-style: none;
+}
+
+.list {
+    border-bottom: 2px solid #1c7ed6;
+    width: 60rem;
+    font-size: 1.6rem;
+    margin: auto;
+    padding: 2rem;
+    color: #555;
+    word-wrap: break-word;
+}

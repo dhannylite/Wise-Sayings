@@ -1,0 +1,38 @@
+.container {
+    width: 90%;
+    max-width: 80rem;
+    margin: 10rem auto;
+}
+
+.lists {
+    list-style: none;
+    /* overflow: hidden; */
+}
+
+.btn {
+    border: 1px solid #1c7ed6;
+    background-color: transparent;
+    border-radius: 4px;
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    transition: all 0.4s;
+    color: #74c0fc;
+    font-size: 1.4rem;
+}
+
+.btn:hover {
+    background-color: #a5d8ff84;
+    /* color: #d7d7d7; */
+}
+
+.filler {
+    width: 100%;
+    border: 2px solid #d0ebff;
+    margin-bottom: 3.2rem;
+}
+
+.center {
+    text-align: center;
+    padding: 2rem;
+}

@@ -1,0 +1,11 @@
+.app {
+    background-color: #e7f5ff;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.home-text {
+    text-align: center;
+    margin-top: 20rem;
+    font-size: 4rem;
+}
